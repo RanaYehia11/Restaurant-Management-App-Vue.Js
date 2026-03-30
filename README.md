@@ -1,2 +1,18 @@
-# Restaurant-Management-App-Vue.Js
-A Vue.js Restaurant Management App that allows users to sign up, log in, and manage restaurants (add, update, delete) 
+# 🍽️ Restaurant Management App
+
+A Vue.js project for managing restaurants.
+
+## Features
+- User Authentication (Login / Signup)
+- Add / Update / Delete Restaurants
+- API Integration using JSON Server
+- Routing with Vue Router
+
+## Tech Stack
+- Vue.js
+- JSON Server
+- Axios
+
+## How to run
+npm install
+npm run serve
